@@ -1,0 +1,9 @@
+[package]
+name = "widget_drive"
+
+[lib]
+proc-macro = true
+
+[dependencies]
+syn = "2.0"
+quote = "1.0"
